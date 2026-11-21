@@ -1,0 +1,13 @@
+class,count
+Cell,1876
+Cell-Multi,1286
+Cracking,937
+Diode,1496
+Diode-Multi,175
+Hot-Spot,248
+Hot-Spot-Multi,246
+No-Anomaly,10000
+Offline-Module,821
+Shadowing,1045
+Soiling,204
+Vegetation,1638
