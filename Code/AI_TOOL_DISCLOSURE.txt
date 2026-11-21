@@ -1,0 +1,3 @@
+AI-tool use disclosure for the course appendix
+
+Generative AI was used to help organize and prepare this working paper draft, edit language and structure, and develop a reference code implementation and related documentation. The team must independently review and revise the paper, verify every reference and claim, compare the reference code with the group's original Colab notebook, run the experiments on the exact dataset, and take responsibility for every reported result. No result from an unexecuted experiment is reported as a finding. The course instructions restrict AI use to language editing and coding support; the team should confirm that the final use and disclosure comply with the instructor's policy before submission.
